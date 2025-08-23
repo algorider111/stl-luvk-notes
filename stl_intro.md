@@ -1,7 +1,3 @@
-Understood. Here’s a professional version of your STL intro notes without any emojis:
-
----
-
 # C++ STL – Overview Notes
 
 The **Standard Template Library (STL)** in C++ is a powerful library providing **generic, reusable, and efficient components** for data structures and algorithms.
